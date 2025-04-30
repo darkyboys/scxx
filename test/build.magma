@@ -1,0 +1,8 @@
+main (`test/test.cc`);
+out  (`a`);
+bin  (`.`);
+
+compile_arguments (`-I.`);
+system (`clear`);
+exec ();
+make ();
