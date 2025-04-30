@@ -107,7 +107,7 @@ Official GitHub: [https://github.com/darkyboys/scxx](https://github.com/darkyboy
 
 ## Documentation
 
-You can find type documentation (here)[docs.md].
+You can find type documentation [here](docs.md).
 
 ---
 
